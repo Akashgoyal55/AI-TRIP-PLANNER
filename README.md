@@ -1,6 +1,6 @@
 # ✈️ AI Trip Planner
 
-AI Trip Planner is a full-stack application that helps users generate personalized travel itineraries based on their preferences, destination, and trip details. The platform uses AI-powered recommendations to create interactive and structured travel plans.
+AI Trip Planner is a full-stack application that helps users create personalized travel itineraries based on their destination, preferences, and trip details. Instead of manually searching for activities, places, and schedules, users can interact with the platform to quickly receive structured trip recommendations. The application improves the planning experience by making travel decisions faster, more organized, and more convenient through AI-powered suggestions and dynamic itinerary generation.
 
 ---
 
